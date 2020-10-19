@@ -1,0 +1,88 @@
+package com.academy.qa.testcases;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+import com.academy.qa.base.TestBase;
+import com.academy.qa.pageobjects.HomePage;
+import com.academy.qa.pageobjects.LoginPage;
+
+public class LoginPageTest extends TestBase {
+
+	LoginPage loginPage;
+	HomePage homePage;
+
+	public LoginPageTest() {
+		super();
+
+	}
+
+	@BeforeMethod
+	public void initializingDriver() {
+
+	    loginPage = new LoginPage();
+		homePage = new HomePage();
+		initializeDriver();
+
+	}
+
+	@AfterMethod
+	public void teardown() {
+		TestBase.driver.quit();
+
+	}
+
+	@Test(dataProvider = "getData")
+	public void test_002LoginCredentials(String usrname, String passwrd){
+
+		TestBase.driver.get(prop.getProperty("URL"));
+		homePage.loginLink().click(); // clicks on login Link on Homepage.
+		loginPage.getUsername().sendKeys(usrname);
+		loginPage.getPassword().sendKeys(passwrd);
+		loginPage.getLoginBtn().click();
+
+	}
+
+	@DataProvider(name = "getData")
+	public Object[][] obj() {
+		Object[][] obj = new Object[2][2];
+		obj[0][0] = "abc@gmail.com";
+		obj[0][1] = "12345";
+
+		obj[1][0] = "pqr@gmail.com";
+		obj[1][1] = "54321";
+
+		return obj;
+
+	}
+
+	@Test
+	public void test_003Forgot_PasswordLink() {
+		homePage.loginLink().click();
+		String forgotPasswordLink = loginPage.getForgotPasswordLink().getText();
+		Assert.assertEquals(forgotPasswordLink, "Forgot Password?",
+				"Verifying the actual value with expected value for Forgot password Link?");
+
+	}
+
+	@Test
+	public void test_004LoginPageHeader() {
+
+		homePage.loginLink().click();
+		String loginPageHeader = loginPage.getLoginPageHeader().getText();
+		System.out.println(loginPageHeader);
+		Assert.assertEquals(loginPageHeader, "Log In to WebServices Testing using SoapUI",
+				"Verifying the actual value with expected value for Login Page Header.");
+
+	}
+
+}

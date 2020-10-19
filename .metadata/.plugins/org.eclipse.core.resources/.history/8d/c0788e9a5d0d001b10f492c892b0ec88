@@ -1,0 +1,47 @@
+package pageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+
+
+public class HomePage {
+	//Initialization of WebDriver
+	public WebDriver driver;
+	
+	public HomePage(WebDriver driver) {
+	this.driver=driver;	
+	}
+	
+	//Homepage Objects
+	
+	By loginLink = By.xpath("//*[text()='Login']");
+	By featuredCoursesHeader = By.xpath("//h2[text()='Featured Courses']")
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//HomePage Methods
+	
+	public WebElement loginLink() {
+		return driver.findElement(loginLink);
+	}
+	
+	public WebElement featuredCoursesHeader() {
+		return driver.findElement(featuredCoursesHeader);
+	}
+	
+	
+	
+	
+	
+	
+
+}

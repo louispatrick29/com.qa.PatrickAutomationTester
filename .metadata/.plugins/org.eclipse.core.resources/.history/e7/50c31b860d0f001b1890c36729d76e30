@@ -1,0 +1,44 @@
+package com.academy.qa.testcases;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import resources.BaseClass;
+
+public class HomePageTest extends BaseClass {
+
+	@BeforeSuite
+	public void initializingDriver() throws IOException {
+		BaseClass.initializeDriver();
+	}
+
+	@AfterSuite
+	public void teardown() {
+		BaseClass.driver.quit();
+
+	}
+
+	@Test(enabled=false)
+	public void test_001LoginLink() throws IOException {
+
+		BaseClass.driver.get(prop.getProperty("URL"));
+		HomePage hp = new HomePage(driver);
+		hp.loginLink().click(); // clicks on login Link on Homepage.
+
+	}
+	
+	@Test
+	public void test_005Headervalidation() throws IOException{
+		
+		BaseClass.driver.get(prop.getProperty("URL"));
+		HomePage hp = new HomePage(driver);
+		String featuredCoursesHeader = hp.featuredCoursesHeader().getText(); 
+		Assert.assertEquals(featuredCoursesHeader, "FEATURED COURSES", "Verifying the featured Courses header.");
+		
+	}
+}

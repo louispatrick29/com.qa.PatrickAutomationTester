@@ -1,0 +1,71 @@
+package com.academy.qa.pageobjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.academy.qa.base.TestBase;
+
+public class LoginPage extends TestBase {
+		
+		
+		public LoginPage() {
+			PageFactory.initElements(driver, this);
+		}
+		
+		@FindBy(xpath="//*[@type='email']")
+		WebElement username;
+		public WebElement getUsername() {
+			return username;
+		}
+		
+		@FindBy(xpath="//*[@type='password']")
+		WebElement password;
+		public WebElement getPassword() {
+			return password;
+		}
+		
+		@FindBy(xpath="//*[@value='Log In']")
+		WebElement loginBtn;
+		public WebElement getLoginBtn() {
+			return loginBtn;
+		}
+		
+		@FindBy(xpath="//a[@href='password/new/index.php']")
+		WebElement forgotPasswordLink;
+		public WebElement getForgotPasswordLink() {
+			return forgotPasswordLink;
+		}
+		
+		@FindBy(xpath="//h1[text()='Log In to WebServices Testing using SoapUI ']")
+		WebElement loginPageHeader;
+		public WebElement getLoginPageHeader() {
+			return loginPageHeader;
+		}
+		
+		
+		
+		
+
+		
+	
+        
+       
+        
+       
+        
+       
+        
+        
+        
+		
+		
+		
+		
+	
+	
+	
+
+}

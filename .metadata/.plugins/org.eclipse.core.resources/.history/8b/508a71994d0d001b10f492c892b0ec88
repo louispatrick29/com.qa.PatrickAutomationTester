@@ -1,0 +1,58 @@
+package pageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class LoginPage {
+	
+
+		//Initialization of WebDriver
+		public WebDriver driver;
+		
+		public LoginPage(WebDriver driver) {
+		this.driver=driver;	
+		}	
+		
+		
+		
+		//LoginPage Objects
+		
+		By username = By.xpath("//*[@type='email']");
+		By password = By.xpath("//*[@type='password']");
+		By loginBtn = By.xpath("//*[@value='Log In']");
+		By forgotPasswordLink = By.xpath("//a[@href='password/new/index.php']");
+		By loginPageHeader = By.xpath("//h1[text()='Log In to WebServices Testing using SoapUI ']");
+		
+		
+		
+		//LoginPage Methods
+		
+		public WebElement getUsername() {
+			return driver.findElement(username);
+			
+		}
+        public WebElement getPassword() {
+			
+        	return driver.findElement(password);
+		}
+        public WebElement getLoginBtn() {
+			
+        	return driver.findElement(loginBtn);
+		}
+        
+        public WebElement getForgotPasswordLink() {
+        	return driver.findElement(forgotPasswordLink);
+        }
+        
+        
+        
+		
+		
+		
+		
+	
+	
+	
+
+}

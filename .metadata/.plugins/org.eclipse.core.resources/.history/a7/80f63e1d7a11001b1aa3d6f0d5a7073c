@@ -1,0 +1,69 @@
+package com.academy.qa.testcases;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.academy.qa.base.TestBase;
+import com.academy.qa.pageobjects.HomePage;
+
+public class HomePageTest extends TestBase {
+
+	HomePage homePage;
+
+	public HomePageTest() {
+		super();
+
+	}
+
+	@BeforeMethod(groups= {"sanityTest"})
+	public void initializingDriver() {
+
+		homePage = new HomePage();
+		initializeDriver();
+		driver.get(prop.getProperty("URL"));
+		System.out.println("HomePage Before Method");
+	
+	}
+
+	@AfterMethod(groups= {"sanityTest"})
+	public void teardown() {
+		TestBase.driver.quit();
+		System.out.println("HomePage After Method");
+	
+
+	}
+
+	@Test(groups= { "smokeTest", "sanityTest" })
+	public void test_001LoginLink() throws Exception {
+
+		homePage.loginLink().click();
+		Thread.sleep(5000);
+		System.out.println("test_001LoginLink");
+		
+
+	}
+
+	@Test(groups= "sanityTest")
+	public void test_005Headervalidation(){
+
+		String featuredCoursesHeader = homePage.featuredCoursesHeader().getText();
+		Assert.assertEquals(featuredCoursesHeader, "FEATURED COURSES", "featuredCoursesHeader is not matched.");
+		System.out.println("test_005Headervalidation");
+	}
+	
+
+	
+	
+	
+	
+}

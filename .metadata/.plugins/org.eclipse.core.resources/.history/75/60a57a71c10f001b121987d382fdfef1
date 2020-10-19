@@ -1,0 +1,49 @@
+package com.academy.qa.pageobjects;
+
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+
+
+public class HomePage {
+	//Initialization of WebDriver
+	
+	
+	public HomePage() {
+		PageFactory.initElements(driver, this);
+		
+	}
+	
+	@FindBy(xpath="//*[text()='Login']")
+	WebElement loginLink;
+	
+	@FindBy(xpath="//h2[text()='Featured Courses']")
+	WebElement featuredCoursesHeader;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//HomePage Methods
+	
+	
+	
+	public WebElement featuredCoursesHeader() {
+		return driver.findElement(featuredCoursesHeader);
+	}
+	
+	
+	
+	
+	
+	
+
+}

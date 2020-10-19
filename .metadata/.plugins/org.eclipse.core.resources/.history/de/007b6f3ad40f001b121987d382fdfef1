@@ -1,0 +1,52 @@
+package com.academy.qa.testcases;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+import com.academy.qa.base.TestBase;
+import com.academy.qa.pageobjects.HomePage;
+
+public class HomePageTest extends TestBase {
+
+	HomePage homePage;
+
+	public HomePageTest() throws Exception {
+		super();
+
+	}
+
+	@BeforeMethod
+	public void initializingDriver() {
+
+		homePage = new HomePage();
+		initializeDriver();
+		driver.get(prop.getProperty("URL"));
+	}
+
+	@AfterMethod
+	public void teardown() {
+		TestBase.driver.quit();
+
+	}
+
+	@Test(enabled = false)
+	public void test_001LoginLink() {
+
+		homePage.loginLink().click();
+
+	}
+
+	@Test
+	public void test_005Headervalidation(){
+
+		String featuredCoursesHeader = homePage.featuredCoursesHeader().getText();
+		Assert.assertEquals(featuredCoursesHeader, "FEATURED COURSES", "Header mismatch");
+
+	}
+}

@@ -1,0 +1,96 @@
+package com.academy.qa.pageobjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.academy.qa.base.TestBase;
+
+public class LoginPage extends TestBase {
+
+	/*
+		@FindBy(xpath="//*[@type='email']")
+		WebElement username;
+		
+		@FindBy(xpath="//*[@type='password']")
+		WebElement password;
+		
+		@FindBy(xpath="//*[@value='Log In']")
+		WebElement loginBtn;
+		
+		@FindBy(xpath="//a[@href='password/new/index.php']")
+		WebElement forgotPasswordLink;
+		
+		@FindBy(xpath="//h1[text()='Log In to WebServices Testing using SoapUI ']")
+		WebElement loginPageHeader;
+		
+		public LoginPage() {
+			PageFactory.initElements(driver, this);
+		} */
+	
+	By username = By.xpath("//*[@type='email']");
+	public WebElement getUsername() {
+		return driver.findElement(username);
+	}
+	
+	By password = By.xpath("//*[@type='password']");
+	public WebElement getPassword() {
+		return driver.findElement(password);
+	}
+	By loginBtn = By.xpath("//*[@value='Log In']");
+	public WebElement getLoginBtn() {
+		return driver.findElement(loginBtn);
+	}
+	
+	By forgotPasswordLink = By.xpath("//a[@href='password/new/index.php']");
+	public WebElement getForgotPasswordLink() {
+		return driver.findElement(forgotPasswordLink);
+	}
+	
+	By loginPageHeader = By.xpath("//h1[text()='Log In to WebServices Testing using SoapUI ']");
+
+	public WebElement getLoginPageHeader() {
+		return driver.findElement(loginPageHeader);
+	}
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+
+		
+	
+        
+       
+        
+       
+        
+       
+        
+        
+        
+		
+		
+		
+		
+	
+	
+	
+
+}

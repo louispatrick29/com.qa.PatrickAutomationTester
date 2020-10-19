@@ -1,0 +1,31 @@
+package com.academy.qa.pageobjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.academy.qa.base.TestBase;
+
+public class HomePage extends TestBase {
+
+	public HomePage() {
+		PageFactory.initElements(driver, this);
+
+	}
+
+	@FindBy(xpath = "//*[text()='Login']")
+	WebElement loginLink;
+
+	public WebElement loginLink() {
+		return loginLink;
+	}
+
+	@FindBy(xpath = "//h2[text()='Featured Courses']")
+	WebElement featuredCoursesHeader;
+
+	public WebElement featuredCoursesHeader() {
+		return featuredCoursesHeader;
+	}
+
+}
