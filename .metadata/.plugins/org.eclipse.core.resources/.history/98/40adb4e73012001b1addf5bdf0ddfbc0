@@ -1,0 +1,18 @@
+package com.academy.qa.testdata;
+
+import java.io.File;
+
+public class ExcelDataReader {
+	
+
+	public static void getExcelData() {
+		
+		File src = new File(System.setProperty("user.dir")+ "\\src\\main\\java\\com\\academy\\qa\\testdata\\ExcelData.xlsx");
+		
+		
+		
+	}
+	
+	
+	
+}

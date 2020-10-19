@@ -1,0 +1,67 @@
+package com.academy.qa.testdata;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import com.academy.qa.base.TestBase;
+
+public class ExcelDataReader extends TestBase {
+	public static File src;
+	public static FileInputStream fis;
+	public static XSSFWorkbook wb;
+	public static XSSFSheet sheet;
+
+	public static String getExcelData(int sheetNum, int rowNum, int ColNum) {
+
+		/*
+		 * Algorithm
+		 * 
+		 * File src = new File("Path of file");
+		 * 
+		 * FileInputStream fis = new FileInputStream(src);
+		 * 
+		 * XSSFWorkbook wb = new XSSFWorkbook(fis);
+		 * 
+		 * XSSFWorksheet sheet= wb.getSheet("SheetName");
+		 * 
+		 * sheet.getRow(0).getCell(0).getStringCellValue(0);
+		 * 
+		 * 
+		 * 
+		 * 
+		 */
+
+		src = new File(
+				System.getProperty("user.dir") + "\\src\\main\\java\\com\\academy\\qa\\testdata\\ExcelData.xlsx");
+
+		try {
+			fis = new FileInputStream(src);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		try {
+			wb = new XSSFWorkbook(fis);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		sheet = wb.getSheetAt(sheetNum);
+
+		String data = sheet.getRow(rowNum).getCell(ColNum).getStringCellValue();
+		return data;
+
+	}
+	 public static void main(String [] args) {
+		 ExcelDataReader.getExcelData(0, 0, 0);
+		 
+	 }
+	
+
+}

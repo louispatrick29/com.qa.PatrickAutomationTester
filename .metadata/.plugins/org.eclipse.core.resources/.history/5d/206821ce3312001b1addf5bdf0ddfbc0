@@ -1,0 +1,40 @@
+package com.academy.qa.testdata;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import com.academy.qa.base.TestBase;
+
+public class ExcelDataReader extends TestBase {
+	public static File src;
+	public static FileInputStream fis;
+	public static XSSFWorkbook sheet;
+	
+
+	public static void getExcelData() {
+		
+		src = new File(System.getProperty("user.dir")+ "\\src\\main\\java\\com\\academy\\qa\\testdata\\ExcelData.xlsx");
+		
+		try {
+			 fis = new FileInputStream(src);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		try {
+			sheet = new XSSFWorkbook(fis);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+	
+	
+	
+}

@@ -1885,3 +1885,429 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2020-10-19 15:19:56,543 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AutomationFramework\E2EProject\src\main\resources
 2020-10-19 15:19:56,550 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-19 15:19:56,550 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 17:52:12,193 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-19 17:52:14,896 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 17:52:14,898 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 17:52:14,902 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 17:52:14,903 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:51:44,090 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:51:44,090 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:51:44,092 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:51:44,092 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:52:20,479 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:52:20,479 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:52:20,481 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:52:20,481 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:52:41,338 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:52:41,339 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:52:41,343 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:52:41,344 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:54:54,082 [Worker-24: Launching E2EProject_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:54:54,083 [Worker-24: Launching E2EProject_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:54:54,085 [Worker-24: Launching E2EProject_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:54:54,085 [Worker-24: Launching E2EProject_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:54:55,282 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:54:55,283 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:54:55,288 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:54:55,289 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 18:57:07,380 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:57:07,381 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 18:57:07,385 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:57:07,386 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 19:00:13,930 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:00:13,930 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 19:00:13,934 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:00:13,935 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 19:02:20,917 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-19 19:10:04,301 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-10-19 19:10:13,528 [Worker-32: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\louis\AutomationFramework\E2EProject
+2020-10-19 19:10:13,541 [Worker-32: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Test
+2020-10-19 19:10:13,643 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:10:13,645 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 19:10:13,650 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:10:13,651 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 19:10:36,610 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-10-19 19:10:37,145 [Worker-36: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\louis\AutomationFramework\E2EProject
+2020-10-19 19:10:37,145 [Worker-36: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Test
+2020-10-19 19:14:27,385 [Worker-35: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\louis\AutomationFramework\E2EProject
+2020-10-19 19:14:27,385 [Worker-35: Launching E2EProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-10-19 19:19:43,746 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:19:43,748 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 19:19:43,754 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:19:43,755 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 19:20:36,817 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:20:36,817 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 19:20:36,821 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 19:20:36,822 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 19:39:22,112 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-19 21:44:04,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:44:04,752 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:44:04,757 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:44:04,758 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:47:22,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:47:22,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:47:22,018 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:47:22,018 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:51:27,546 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:51:29,754 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2.pom
+2020-10-19 21:51:30,367 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2.pom
+2020-10-19 21:51:30,633 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.pom
+2020-10-19 21:51:31,247 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.pom
+2020-10-19 21:51:31,590 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom
+2020-10-19 21:51:32,567 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom
+2020-10-19 21:51:32,849 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2020-10-19 21:51:33,296 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2020-10-19 21:51:33,568 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.pom
+2020-10-19 21:51:34,014 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.pom
+2020-10-19 21:51:34,351 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.pom
+2020-10-19 21:51:34,731 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.pom
+2020-10-19 21:51:35,064 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.pom
+2020-10-19 21:51:35,554 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.pom
+2020-10-19 21:51:35,884 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.pom
+2020-10-19 21:51:36,267 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.pom
+2020-10-19 21:51:36,600 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.pom
+2020-10-19 21:51:36,903 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.pom
+2020-10-19 21:51:37,215 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19.pom
+2020-10-19 21:51:37,637 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19.pom
+2020-10-19 21:51:37,931 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.pom
+2020-10-19 21:51:38,247 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.pom
+2020-10-19 21:51:38,651 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2.jar
+2020-10-19 21:51:38,986 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.jar
+2020-10-19 21:51:38,986 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar
+2020-10-19 21:51:38,986 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar
+2020-10-19 21:51:38,986 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2020-10-19 21:51:40,220 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar
+2020-10-19 21:51:40,897 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar
+2020-10-19 21:51:45,172 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.jar
+2020-10-19 21:51:45,635 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar
+2020-10-19 21:51:52,667 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2020-10-19 21:51:52,939 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar
+2020-10-19 21:52:04,677 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar
+2020-10-19 21:52:05,120 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar
+2020-10-19 21:52:05,418 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar
+2020-10-19 21:52:05,828 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar
+2020-10-19 21:52:07,254 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar
+2020-10-19 21:52:07,926 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar
+2020-10-19 21:52:07,943 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar
+2020-10-19 21:52:07,979 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar
+2020-10-19 21:52:08,565 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2.jar
+2020-10-19 21:52:09,321 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.apache.org/content/repositories/releases/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar
+2020-10-19 21:52:09,860 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:52:09,860 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:52:09,864 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:52:09,864 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:52:12,150 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2-sources.jar
+2020-10-19 21:52:17,625 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/4.1.2/poi-4.1.2-sources.jar
+2020-10-19 21:52:17,847 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi:4.1.2
+2020-10-19 21:52:19,471 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13-sources.jar
+2020-10-19 21:52:21,138 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:52:21,138 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:52:21,141 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:52:21,142 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:52:24,834 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13-sources.jar
+2020-10-19 21:52:24,991 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.13
+2020-10-19 21:52:26,394 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2020-10-19 21:52:36,518 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2020-10-19 21:52:36,677 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2020-10-19 21:52:37,940 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar
+2020-10-19 21:52:46,439 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar
+2020-10-19 21:52:46,590 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math3:3.6.1
+2020-10-19 21:52:48,890 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2-sources.jar
+2020-10-19 21:52:49,766 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2-sources.jar
+2020-10-19 21:52:49,915 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:SparseBitSet:1.2
+2020-10-19 21:52:51,247 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2-sources.jar
+2020-10-19 21:52:56,990 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2-sources.jar
+2020-10-19 21:52:57,144 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-ooxml:4.1.2
+2020-10-19 21:52:58,520 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2-sources.jar
+2020-10-19 21:52:58,615 [Worker-23: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.poi:poi-ooxml-schemas:4.1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-10-19 21:52:59,849 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar
+2020-10-19 21:53:11,831 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar
+2020-10-19 21:53:11,937 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlbeans:xmlbeans:3.1.0
+2020-10-19 21:53:12,818 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19-sources.jar
+2020-10-19 21:53:14,783 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19-sources.jar
+2020-10-19 21:53:14,943 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-compress:1.19
+2020-10-19 21:53:16,042 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06-sources.jar
+2020-10-19 21:53:18,195 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.06/curvesapi-1.06-sources.jar
+2020-10-19 21:53:18,364 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.virtuald:curvesapi:1.06
+2020-10-19 21:53:18,813 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:53:18,813 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:53:18,817 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:53:18,817 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:53:21,660 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2-javadoc.jar
+2020-10-19 21:53:21,670 [Worker-33: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-schemas:4.1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-10-19 21:55:14,665 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:55:15,005 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:15,006 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:55:15,008 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:15,008 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:55:16,448 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:16,448 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:55:16,451 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:16,451 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:55:21,609 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:55:22,044 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:22,044 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:55:22,047 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:55:22,047 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:57:06,480 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:57:07,047 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:57:07,048 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:57:07,050 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:57:07,050 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:58:31,679 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:58:34,165 [Worker-34: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.pom
+2020-10-19 21:58:34,166 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.pom
+2020-10-19 21:58:34,855 [Worker-34: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.pom
+2020-10-19 21:58:34,867 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.pom
+2020-10-19 21:58:35,600 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.jar
+2020-10-19 21:58:35,607 [Worker-34: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.jar
+2020-10-19 21:58:43,064 [Worker-34: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.jar
+2020-10-19 21:59:03,474 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2.jar
+2020-10-19 21:59:04,003 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:04,004 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:59:04,007 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:04,007 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:59:06,318 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2-sources.jar
+2020-10-19 21:59:10,599 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:59:10,847 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/4.1.2/poi-scratchpad-4.1.2-sources.jar
+2020-10-19 21:59:10,954 [Worker-34: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-scratchpad:4.1.2
+2020-10-19 21:59:11,148 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:11,149 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:59:11,152 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:11,152 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:59:11,186 [Worker-34: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-scratchpad:4.1.2
+2020-10-19 21:59:12,201 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:12,202 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:59:12,204 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:12,204 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 21:59:30,563 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 21:59:30,998 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:30,999 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 21:59:31,001 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 21:59:31,001 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:00:42,360 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 22:00:42,703 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:00:42,704 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:00:42,707 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:00:42,707 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:01:47,267 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 22:01:47,601 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:01:47,601 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:01:47,604 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:01:47,604 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:01:49,068 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:01:49,070 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:01:49,071 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:01:49,072 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:02:47,958 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 22:02:49,539 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5.jar
+2020-10-19 22:02:50,774 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5.jar
+2020-10-19 22:02:51,420 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:51,421 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:02:51,423 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:51,423 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:02:52,726 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:52,726 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:02:52,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:52,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:02:53,845 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar
+2020-10-19 22:02:55,068 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar
+2020-10-19 22:02:55,168 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.5
+2020-10-19 22:02:55,469 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:55,470 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:02:55,471 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:02:55,471 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:03:15,984 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 22:03:16,435 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:03:16,435 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:03:16,439 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:03:16,440 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:03:26,534 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Academy:E2EProject:0.0.1-SNAPSHOT @ C:\Users\louis\AutomationFramework\E2EProject\pom.xml.
+2020-10-19 22:03:26,853 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:03:26,854 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:03:26,856 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:03:26,856 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 22:59:35,276 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:59:35,276 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 22:59:35,278 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 22:59:35,278 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:01:01,611 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:01,612 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:01:01,613 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:01,613 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:01:22,272 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:22,272 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:01:22,278 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:22,278 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:01:56,911 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:56,911 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:01:56,913 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:01:56,913 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:14:32,778 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:14:32,778 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:14:32,779 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:14:32,779 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:15:30,767 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:15:30,767 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:15:30,768 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:15:30,769 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:22:07,768 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:07,769 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:22:07,770 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:07,770 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:22:16,383 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:16,383 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:22:16,384 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:16,384 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:22:26,428 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:26,428 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:22:26,429 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:22:26,429 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:23:48,106 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:23:48,106 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:23:48,107 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:23:48,107 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:25:51,418 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:25:51,418 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:25:51,419 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:25:51,419 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:26:01,832 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:26:01,832 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:26:01,833 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:26:01,833 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-19 23:26:16,373 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:26:16,373 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-19 23:26:16,374 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 23:26:16,374 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:06:52,165 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:06:52,166 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:06:52,166 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:06:52,167 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:08:51,812 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:08:51,812 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:08:51,815 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:08:51,815 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:09:29,079 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:09:29,079 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:09:29,081 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:09:29,081 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:12:00,588 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:12:00,588 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:12:00,589 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:12:00,590 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:12:10,641 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:12:10,641 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:12:10,642 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:12:10,642 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:13:38,646 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:13:38,646 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:13:38,647 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:13:38,647 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:14:55,409 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:14:55,410 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:14:55,411 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:14:55,411 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:15:59,308 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:15:59,309 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:15:59,309 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:15:59,309 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:18:30,015 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:18:30,015 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:18:30,017 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:18:30,017 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:19:11,475 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:19:11,476 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:19:11,477 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:19:11,477 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:22:28,135 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:22:28,136 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:22:28,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:22:28,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:22:39,012 [Worker-68: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:22:39,012 [Worker-68: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:22:39,013 [Worker-68: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:22:39,014 [Worker-68: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:23:16,009 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:23:16,010 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:23:16,013 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:23:16,013 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:24:20,915 [Worker-69: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:24:20,915 [Worker-69: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:24:20,916 [Worker-69: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:24:20,916 [Worker-69: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:32:18,072 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:32:18,072 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:32:18,073 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:32:18,073 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:32:32,909 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:32:32,910 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:32:32,910 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:32:32,910 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:43:21,915 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:43:21,915 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:43:21,916 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:43:21,916 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:44:24,097 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:44:24,097 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:44:24,098 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:44:24,098 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:44:43,279 [Worker-66: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:44:43,279 [Worker-66: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:44:43,280 [Worker-66: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:44:43,280 [Worker-66: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:45:16,628 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:45:16,628 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:45:16,629 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:45:16,629 [Worker-67: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:49:45,515 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:49:45,515 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:49:45,516 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:49:45,516 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:52:09,159 [Worker-70: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:52:09,159 [Worker-70: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:52:09,159 [Worker-70: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:52:09,159 [Worker-70: Launching ExcelDataReader] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:53:30,541 [Worker-72: Launching LoginPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:53:30,541 [Worker-72: Launching LoginPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:53:30,542 [Worker-72: Launching LoginPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:53:30,542 [Worker-72: Launching LoginPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
+2020-10-20 00:54:59,542 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:54:59,542 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\main\resources
+2020-10-20 00:54:59,543 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-20 00:54:59,543 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\louis\AutomationFramework\E2EProject\src\test\resources
